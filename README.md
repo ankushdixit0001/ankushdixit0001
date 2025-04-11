@@ -1,5 +1,5 @@
 <!--Banner-->
-![Ankush Dixit Banner Image](./banner1.png)
+![Ankush Dixit Banner Image](./banner.png)
 
 <!--Night Owl image-->
 <div>
@@ -17,7 +17,7 @@
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 <!--- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)-->
-- 💻 Visit my [Portfolio](https://ankushdixit0001.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://ankushdixit0001.github.io/ankush/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
