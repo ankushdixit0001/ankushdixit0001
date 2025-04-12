@@ -1,9 +1,12 @@
 name: Update Quote
 
 on:
-  workflow_dispatch:  #Manually trigger the workflow
+  workflow_dispatch:  # Allows manual triggering
   schedule:
-    - cron: '30 6 * * *'  # Schedule daily at 12:01 AM Indian Time
+    - cron: '30 6 * * *'  # Runs daily at 6:30 UTC (12:00 PM IST)
+
+permissions:
+  contents: write  # Grants permission to modify repository contents
 
 jobs:
   update-readme:
@@ -11,12 +14,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Use the latest version for security and improvements
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 14
+          node-version: 18  # Updated Node.js version for better compatibility
 
       - name: Install dependencies
         run: npm install
@@ -24,10 +27,12 @@ jobs:
       - name: Update Quote
         run: node update-quote.js
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Provides authentication for changes
 
       - name: Commit and push changes
         run: |
+          git config --global user.name "ankushdixit0001"
+          git config --global user.email "ankushdixit29@gmail.com"
           git add README.md
-          git -c user.name='ankushdixit0001' -c user.email='ankushdixit29@gmail.com' commit -m "Update README with daily quote" -a
+          git commit -m "Update README with daily quote"
           git push
