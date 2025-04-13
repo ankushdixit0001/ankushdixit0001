@@ -22,7 +22,7 @@ jobs:
           node-version: 18  # Updated Node.js version for better compatibility
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci  # Faster and more reliable than `npm install`
 
       - name: Update Quote
         run: node update-quote.js
@@ -31,8 +31,9 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "ankushdixit0001"
-          git config --global user.email "ankushdixit29@gmail.com"
+          git config user.name "ankushdixit0001"
+          git config user.email "ankushdixit29@gmail.com"
+          git pull --rebase  # Avoid push conflicts
           git add README.md
-          git commit -m "Update README with daily quote"
+          git commit -m "Update README with daily quote on $(date -u +"%Y-%m-%d")"
           git push
