@@ -1,0 +1,21 @@
+{
+  "name": "ankushdixit0001",
+  "version": "1.0.0",
+  "description": "<!--Banner-->\r ![Ankush Dixit Banner Image](./banner.png)",
+  "main": "update-quote.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankushdixit0001/ankushdixit0001.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ankushdixit0001/ankushdixit0001/issues"
+  },
+  "homepage": "https://github.com/ankushdixit0001/ankushdixit0001#readme"
+}
