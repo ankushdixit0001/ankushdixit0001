@@ -177,11 +177,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Success%20is%20never%20final%2C%20failure%20is%20never%20fatal.%20It's%20courage%20that%20counts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Graham%20Bell&quote=Leave%20the%20beaten%20track%20behind%20occasionally%20and%20dive%20into%20the%20woods.%20Every%20time%20you%20do%20you%20will%20be%20certain%20to%20find%20something%20you%20have%20never%20seen%20before.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
