@@ -198,11 +198,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=Better%20to%20die%20fighting%20for%20freedom%20than%20be%20a%20prisoner%20all%20the%20days%20of%20your%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Denis%20Waitley&quote=Change%20the%20changeable%2C%20accept%20the%20unchangeable%2C%20and%20remove%20yourself%20from%20the%20unacceptable.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
