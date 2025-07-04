@@ -204,11 +204,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bruce%20Lee&quote=Zen%20insists%20that%20the%20whole%20trouble%20is%20just%20our%20failure%20to%20realize%20that%20there%20is%20no%20problem.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=The%20secret%20of%20change%20is%20to%20focus%20all%20your%20energy%20not%20on%20fighting%20the%20old%2C%20but%20on%20building%20the%20new.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
