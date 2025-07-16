@@ -216,11 +216,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joan%20Rivers&quote=I%20never%20dwell%20on%20what%20happened.%20You%20can't%20change%20it.%20Move%20forward.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Amelia%20Earhart&quote=You%20know%20the%20more%20one%20does%20the%20more%20one%20can%20do.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
