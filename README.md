@@ -230,11 +230,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Norman%20Vincent%20Peale&quote=The%20more%20you%20lose%20yourself%20in%20something%20bigger%20than%20yourself%2C%20the%20more%20energy%20you%20will%20have.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Criss%20Jami&quote=Everyone%20has%20a%20sense%20of%20humor.%20If%20you%20don't%20laugh%20at%20jokes%2C%20you%20probably%20laugh%20at%20opinions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
