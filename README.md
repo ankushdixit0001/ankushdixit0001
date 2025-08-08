@@ -239,11 +239,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Bob%20Marley&quote=Open%20your%20eyes%20and%20look%20within.%20Are%20you%20satisfied%20with%20the%20life%20you're%20living%3F&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=T.S.%20Eliot&quote=What%20we%20call%20the%20beginning%20is%20often%20the%20end.%20And%20to%20make%20an%20end%20is%20to%20make%20a%20beginning.%20The%20end%20is%20where%20we%20start%20from.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
