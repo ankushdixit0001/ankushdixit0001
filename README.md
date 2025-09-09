@@ -271,11 +271,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Move%20out%20of%20your%20comfort%20zone.%20You%20can%20only%20grow%20if%20you%20are%20willing%20to%20feel%20awkward%20and%20uncomfortable%20when%20you%20try%20something%20new.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Instead%20of%20being%20intimidated%20by%20the%20limitations%2C%20be%20inspired%20to%20find%20new%20ways%20around%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
