@@ -292,11 +292,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jiddu%20Krishnamurti&quote=Thought%20is%20so%20cunning%2C%20so%20clever%2C%20that%20it%20distorts%20everything%20for%20its%20own%20convenience.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=Success%20is%20good%20at%20any%20age%2C%20but%20the%20sooner%20you%20find%20it%2C%20the%20longer%20you%20will%20enjoy%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
