@@ -302,11 +302,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=Don't%20let%20someone%20elses.%20opinion%20become%20your%20reality.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Gary%20Keller&quote=It%20is%20those%20who%20concentrate%20on%20but%20one%20thing%20at%20a%20time%20who%20advance%20in%20this%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
