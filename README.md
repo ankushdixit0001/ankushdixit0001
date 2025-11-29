@@ -352,11 +352,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lily%20Tomlin&quote=For%20fast-acting%20relief%20try%20slowing%20down.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Morihei%20Ueshiba&quote=To%20injure%20an%20opponent%20is%20to%20injure%20yourself.%20To%20control%20aggression%20without%20inflicting%20injury%20is%20the%20Art%20of%20Peace.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
