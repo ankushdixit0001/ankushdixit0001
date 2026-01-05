@@ -75,16 +75,16 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/ankushdixit0001">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankushdixit0001&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+        <a href="https://github-readme-stats-fast.vercel.app/api?username=ankushdixit0001&count_private=true&show_icons=true&theme=radical">
+          <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=ankushdixit0001&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/ankushdixit0001">
-          <img align="center" src="https://streak-stats.demolab.com?user=ankushdixit0001&theme=radical" alt="Streak Stats" />
+        <a href="https://streak-stats.demolab.com/?user=ankushdixit0001&theme=radical">
+          <img align="center" src="https://streak-stats.demolab.com/?user=ankushdixit0001&theme=radical" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -93,15 +93,15 @@
     <td width="50%">
       <h3 align="center"><strong>Top Languages</strong></h3>
       <p align="center">
-        <a href="https://github.com/ankushdixit0001">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushdixit0001&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
+        <a href="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ankushdixit0001&layout=compact&theme=radical&counprit_vate=true">
+          <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ankushdixit0001&layout=compact&theme=radical&counprit_vate=true" alt="Top Languages" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Contributions</strong></h3>
       <p align="center">
-        <a href="https://github.com/ankushdixit0001">
+        <a href="https://github-contributor-stats.vercel.app/api?username=ankushdixit0001&limit=5&theme=radical">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ankushdixit0001&limit=5&theme=radical" alt="Contributions" />
         </a>
       </p>
