@@ -41,13 +41,13 @@
   <li>Mastering Data Structures and Algorithms using C++.</li>
   <li>Learning Object-Oriented Programming and System Design fundamentals.</li>
   <!-- <li>Understanding the architecture and development of chat applications (e.g., Telegram).</li> -->
-  <li>Exploring web development basics including HTML, CSS, JavaScript, and PHP.</li>
+  <li>Exploring web development basics including HTML, CSS, JavaScript.</li>
 </ul>
 
 <h3 align="left">Skills</h3>
 <ul align="left">
   <li>Proficient in C++ with focus on problem-solving and DSA.</li>
-  <li>Basic experience with web technologies: HTML, CSS, JavaScript, and PHP.</li>
+  <li>Basic experience with web technologies: HTML, CSS, JavaScript.</li>
   <li>Understanding of Operating Systems and DBMS fundamentals from coursework.</li>
   <li>Familiar with MS Office tools for documentation and productivity.</li>
 </ul>
@@ -58,9 +58,9 @@
 <p align="center">
   <a href="https://github.com/ankushdixit0001">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ankushdixit0001&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ankushdixit0001&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ankushdixit0001&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-fast.vercel.app/?username=ankushdixit0001&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-fast.vercel.app/?username=ankushdixit0001&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-fast.vercel.app/?username=ankushdixit0001&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
   </a>
 </p>
