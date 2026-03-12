@@ -455,11 +455,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mae%20West&quote=It's%20not%20the%20men%20in%20your%20life%20that%20matters%2C%20it's%20the%20life%20in%20your%20men.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Graham%20Bell&quote=Night%20is%20a%20more%20quiet%20time%20to%20work.%20It%20aids%20thought.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
