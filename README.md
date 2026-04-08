@@ -482,11 +482,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lolly%20Daskal&quote=The%20greater%20the%20impact%20you%20want%20to%20make%2C%20the%20greater%20your%20influence%20needs%20to%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vidal%20Sassoon&quote=The%20only%20place%20where%20success%20comes%20before%20work%20is%20in%20the%20dictionary.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
