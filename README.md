@@ -507,11 +507,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Naval%20Ravikant&quote=If%20you%20see%20a%20get%20rich%20quick%20scheme%2C%20that's%20someone%20else%20trying%20to%20get%20rich%20off%20of%20you.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Isaac%20Newton&quote=To%20arrive%20at%20the%20simplest%20truth%20requires%20years%20of%20contemplation.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
