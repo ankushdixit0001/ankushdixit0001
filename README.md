@@ -12,7 +12,13 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Data Structures and Algorithms (DSA) in C++, Python, Java, HTML, CSS, JavaScript, PHP, and database management systems (DBMS). I also have knowledge of Operating Systems and tools like MS Office.</p>
+<p align="left">Aspiring Software Engineer and Full Stack Developer with strong foundations in C++, JavaScript, SQL, Data Structures & Algorithms, OOPs, DBMS, Operating Systems, and Computer Networks.
+
+Built dynamic web applications with database integration, admin panels, and responsive user interfaces. Passionate about problem solving, backend development, and creating real-world software solutions while continuously learning modern technologies.
+
+Tech Stack: C++, Java, JavaScript, SQL, HTML, CSS, Git, GitHub, Supabase
+Currently focused on Full Stack Development, Backend Engineering, and DSA.
+</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
