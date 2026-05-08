@@ -517,11 +517,13 @@ Currently focused on Full Stack Development, Backend Engineering, and DSA.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=Always%20do%20what%20is%20right.%20It%20will%20gratify%20half%20of%20mankind%20and%20astound%20the%20other.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=Everyone%20wants%20to%20go%20to%20Heaven%2C%20but%20no%20one%20wants%20to%20die.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
