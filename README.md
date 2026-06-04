@@ -544,11 +544,13 @@ Currently focused on Full Stack Development, Backend Engineering, and DSA.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=D.%20H.%20Lawrence&quote=A%20woman%20unsatisfied%20must%20have%20luxuries.%20But%20a%20woman%20who%20loves%20a%20man%20would%20sleep%20on%20a%20board.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=T.S.%20Eliot&quote=What%20we%20call%20the%20beginning%20is%20often%20the%20end.%20And%20to%20make%20an%20end%20is%20to%20make%20a%20beginning.%20The%20end%20is%20where%20we%20start%20from.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
