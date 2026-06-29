@@ -569,11 +569,13 @@ Currently focused on Full Stack Development, Backend Engineering, and DSA.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=Nothing%20can%20survive%20without%20food.%20Everything%20we%20consume%20acts%20either%20to%20heal%20us%20or%20to%20poison%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Paramahansa%20Yogananda&quote=When%20the%20mind%20is%20calm%2C%20how%20quickly%2C%20how%20smoothly%2C%20how%20beautifully%20you%20will%20perceive%20everything.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
