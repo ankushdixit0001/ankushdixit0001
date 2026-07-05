@@ -575,11 +575,13 @@ Currently focused on Full Stack Development, Backend Engineering, and DSA.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=The%20quality%20of%20your%20life%20is%20the%20quality%20of%20your%20relationships.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ray%20Bradbury&quote=Life%20should%20be%20touched%2C%20not%20strangled.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
