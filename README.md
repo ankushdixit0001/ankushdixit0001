@@ -578,11 +578,13 @@ Currently focused on Full Stack Development, Backend Engineering, and DSA.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=Show%20kindness%20but%20never%20expect%20it.%20Show%20authenticity%20but%20never%20expect%20it.%20Only%20the%20wise%20are%20indifferent%20to%20things%20they%20can't%20control.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=Acknowledging%20the%20good%20that%20you%20already%20have%20in%20your%20life%20is%20the%20foundation%20for%20all%20abundance.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
