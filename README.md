@@ -606,11 +606,13 @@ Currently focused on Full Stack Development, Backend Engineering, and DSA.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Euripides&quote=No%20one%20can%20confidently%20say%20that%20he%20will%20still%20be%20living%20tomorrow.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Shunryu%20Suzuki&quote=Where%20ever%20you%20are%2C%20you%20are%20one%20with%20the%20clouds%20and%20one%20with%20the%20sun%20and%20the%20stars%20you%20see.%20You%20are%20one%20with%20everything.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
