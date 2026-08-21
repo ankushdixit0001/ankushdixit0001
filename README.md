@@ -622,11 +622,13 @@ Currently focused on Full Stack Development, Backend Engineering, and DSA.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20F.%20Kennedy&quote=Tragedy%20is%20a%20tool%20for%20the%20living%20to%20gain%20wisdom%2C%20not%20a%20guide%20by%20which%20to%20live.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Oscar%20Wilde&quote=There%20is%20only%20one%20thing%20in%20the%20world%20worse%20than%20being%20talked%20about%2C%20and%20that%20is%20not%20being%20talked%20about.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
