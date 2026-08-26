@@ -627,11 +627,13 @@ Currently focused on Full Stack Development, Backend Engineering, and DSA.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=The%20greatest%20of%20all%20mistakes%20is%20to%20do%20nothing%20because%20you%20think%20you%20can%20only%20do%20a%20little.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Darwin&quote=What%20a%20book%20a%20devil's%20chaplain%20might%20write%20on%20the%20clumsy%2C%20wasteful%2C%20blundering%2C%20low%2C%20and%20horribly%20cruel%20work%20of%20nature!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
