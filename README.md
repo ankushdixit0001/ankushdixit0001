@@ -632,11 +632,13 @@ Currently focused on Full Stack Development, Backend Engineering, and DSA.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Franklin&quote=While%20we%20may%20not%20be%20able%20to%20control%20all%20that%20happens%20to%20us%2C%20we%20can%20control%20what%20happens%20inside%20us.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=The%20highest%20level%20of%20wisdom%20is%20when%20you%20not%20only%20accept%20but%20love%20adversity.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
