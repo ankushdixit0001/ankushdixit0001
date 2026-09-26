@@ -658,11 +658,13 @@ Currently focused on Full Stack Development, Backend Engineering, and DSA.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=If%20you%20go%20out%20looking%20for%20friends%2C%20you're%20going%20to%20find%20they%20are%20very%20scarce.%20If%20you%20go%20out%20to%20be%20a%20friend%2C%20you'll%20find%20them%20everywhere.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elvis%20Presley&quote=Truth%20is%20like%20the%20sun.%20You%20can%20shut%20it%20out%20for%20a%20time%2C%20but%20it%20ain't%20going%20away.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
