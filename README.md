@@ -669,11 +669,13 @@ Currently focused on Full Stack Development, Backend Engineering, and DSA.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maya%20Angelou&quote=If%20you%20don't%20like%20something%20change%20it.%20If%20you%20can't%20change%20it%2C%20change%20your%20attitude%20about%20it.%20Don't%20complain.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Les%20Brown&quote=Shoot%20for%20the%20moon%2C%20because%20even%20if%20you%20miss%2C%20you'll%20land%20among%20the%20stars.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
