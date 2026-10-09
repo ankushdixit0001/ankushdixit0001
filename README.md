@@ -671,11 +671,13 @@ Currently focused on Full Stack Development, Backend Engineering, and DSA.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Betty%20White&quote=The%20older%20you%20get%2C%20the%20better%20you%20get.%20Unless%20you're%20a%20banana.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=J.R.R.%20Tolkien&quote=It%20is%20useless%20to%20meet%20revenge%20with%20revenge%3B%20it%20will%20heal%20nothing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
