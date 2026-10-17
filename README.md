@@ -679,11 +679,13 @@ Currently focused on Full Stack Development, Backend Engineering, and DSA.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=There%20are%20two%20kinds%20of%20perfect%20people%3A%20those%20who%20are%20dead%2C%20and%20those%20who%20have%20not%20been%20born%20yet.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Eliot&quote=Thinking%20is%20a%20habit%2C%20and%20like%20any%20other%20habit%2C%20it%20can%20be%20changed%3B%20it%20just%20takes%20effort%20and%20repetition.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
