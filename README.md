@@ -705,11 +705,13 @@ Currently focused on Full Stack Development, Backend Engineering, and DSA.
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=Everyone%20is%20a%20moon%2C%20and%20has%20a%20dark%20side%20which%20he%20never%20shows%20to%20anybody.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Nicolas%20Chamfort&quote=Intelligent%20people%20make%20many%20mistakes%20because%20they%20cannot%20believe%20the%20world%20is%20really%20as%20foolish%20as%20it%20is.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
